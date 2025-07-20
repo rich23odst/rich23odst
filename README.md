@@ -20,10 +20,6 @@ You can reach me through GitHub or feel free to share your game dev journey with
 
 > *“Code is like magic, but real.”*
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rich23odst&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
-
 <!---
 richodst/richdst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
