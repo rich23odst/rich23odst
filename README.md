@@ -22,7 +22,7 @@ You can reach me through GitHub or feel free to share your game dev journey with
 
 ---
 
-![richodst's GitHub stats](https://github-readme-stats.vercel.app/api?username=richodst&show_icons=true&theme=radical)
+![richodst's GitHub stats](https://github-readme-stats.vercel.app/api?username=rich23odst&show_icons=true&theme=radical)
 
 <!---
 richodst/richdst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
